@@ -1,0 +1,22 @@
+Key Insights
+
+1. Adult Aadhaar holders are the primary contributors to biometric updates across states, indicating a heavy update load on the Aadhaar system.
+
+2. High biometric update rates often signal system stress and may also reflect biometric challenges associated with ageing, such as fingerprint degradation.
+
+3. Demographic (address-related) updates among adults are considerably lower when compared to biometric updates.
+
+4. This gap indicates barriers in updating address information, such as lack of valid address proof, migration between rural and urban areas, and procedural complexity.
+
+5. Regions that simultaneously exhibit high Aadhaar enrolment volumes and high biometric update activity indicate significant pressure on Aadhaar service infrastructure.
+
+6. In such high-pressure regions, difficulties in updating address information may encourage citizens to opt for re-enrolment or unintentionally create duplicate Aadhaar records.
+
+7. These patterns can lead to silent exclusion of citizens from Aadhaar-linked welfare and social service delivery systems.
+
+8. Early identification of such high-risk regions can assist UIDAI in designing preventive, inclusive, and citizen-centric Aadhaar update policies.
+
+
+Framework Explanation
+
+The Aadhaar Update Stress & Exclusion Risk Framework integrates three key indicators: biometric update intensity, address update accessibility, and enrolment pressure. Regions that demonstrate high biometric update rates combined with relatively low address update rates are classified as high-risk zones. Such patterns indicate Aadhaar update stress and a heightened risk of exclusion or duplicate enrolment. This framework enables data-driven identification of vulnerable regions and supports UIDAI in formulating targeted, preventive policy interventions.
