@@ -65,6 +65,6 @@ The analysis is intended solely for academic and policy exploration and does not
 ## Authors
 
 - **Team Name:** Muskan(Lead),Om Ahuja,Tanish Kumar Goyal  
-- **Institution:** [Chandigarh grouup of Colleges  
+- **Institution:** Chandigarh grouup of Colleges  
 - **Hackathon:** UIDAI Data Hackathon 2026
 
